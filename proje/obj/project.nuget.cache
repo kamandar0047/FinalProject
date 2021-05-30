@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "W5LltlnxH1ZZsrfeZVx47PxT0XSOl51F/xIOuDnCzeg13HBhYFlCcSu1JQcN4dfUDuoZyyQoZ3fXm4k22aYX3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ideapad\\source\\repos\\proje\\proje\\proje.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ideapad\\.nuget\\packages\\cctunifor.consoletable\\1.0.1\\cctunifor.consoletable.1.0.1.nupkg.sha512",
+    "C:\\Users\\Ideapad\\.nuget\\packages\\cctunifor.logger\\1.0.1\\cctunifor.logger.1.0.1.nupkg.sha512",
+    "C:\\Users\\Ideapad\\.nuget\\packages\\consoletables\\2.4.2\\consoletables.2.4.2.nupkg.sha512",
+    "C:\\Users\\Ideapad\\.nuget\\packages\\documentformat.openxml\\2.13.0\\documentformat.openxml.2.13.0.nupkg.sha512",
+    "C:\\Users\\Ideapad\\.nuget\\packages\\easyconsole\\1.1.0\\easyconsole.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ideapad\\.nuget\\packages\\fasetto.easyconsole\\0.1.5\\fasetto.easyconsole.0.1.5.nupkg.sha512",
+    "C:\\Users\\Ideapad\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ideapad\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ideapad\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Ideapad\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
+    "C:\\Users\\Ideapad\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Ideapad\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Ideapad\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Ideapad\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Ideapad\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Ideapad\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'EasyConsole 1.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "EasyConsole",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
